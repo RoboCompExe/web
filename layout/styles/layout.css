@@ -19,33 +19,6 @@
 .row5,
 .row5 a {}
 
-@font-face {
-    font-family: 'Gotham';
-    src: url('font/gotham.ott') format('opentype');
-}
-
-body {
-    font-family: 'Gotham', sans-serif;
-}
-
-body, .heading {
-    font-family: 'Gotham', sans-serif;
-}
-
-h1 {
-    font-family: 'Gotham', sans-serif;
-}
-
-.heading {
-    font-family: Gotham, sans-serif;
-    font-size: 5px; /* Ukuran default */
-    color: white;
-    text-align: absolute;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin: 5px 0;
-}
-
 .service-list {
     font-size: 15px;
     line-height: 1.4; /* Mengatur tinggi baris agar lebih rapat */
